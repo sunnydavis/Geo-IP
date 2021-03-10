@@ -3,7 +3,7 @@
     "description": "Fast IP to country lookup based on Maxmind Lite database, with no requirement for extension or binary database",
     "type": "library",
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": ">=5.6",
         "ayesh/geo-ip-database": "^1.0.0"
     },
     "autoload": {
